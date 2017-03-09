@@ -1,0 +1,32 @@
+# bin
+*.class
+
+# package files
+*.jar
+*.war
+*.ear
+
+# eclipse
+.classpath
+.project
+.settings
+
+# idea
+.idea
+*.iml
+*.ipr
+*.iws
+
+# maven build
+target/
+
+# mac
+.DS_Store
+
+# env
+/data
+/log
+application-dev.properties
+DevConfig.java
+
+/bin/
